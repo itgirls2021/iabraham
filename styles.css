@@ -1,4 +1,5 @@
 body {color: cadetblue;
     background-color: aliceblue;
 }
-h1 {}
+h1 { color: navy; background-color: lightcyan;}
+h2 { color: navy;}
