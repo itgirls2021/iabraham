@@ -1,12 +1,15 @@
 body {
     color: darkblue;
     background-color: lightcyan;
+    font-family: Arial, Helvetica, sans-serif;
  } 
 
 h1 { 
     color: midnightblue;
     background-color: lightcyan;
+    font-family: 'Pacifico', cursive;
  }
 h2 { 
     color:midnightblue;
+    font-family: 'Pacifico', cursive;
  }
