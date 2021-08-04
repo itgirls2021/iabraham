@@ -17,3 +17,8 @@ h2 {
  nav a {color: lightpink;}
  nav {color: white;}
  nav a :hover {background-color: hotpink;}
+ nav {
+ padding: 10px;
+ margin-bottom: 30px;
+ background-color: cornsilk;
+ }
