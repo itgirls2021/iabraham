@@ -22,3 +22,10 @@ h2 {
  margin-bottom: 30px;
  background-color: cornsilk;
  }
+ div {border: 1px solid black;}
+ div {
+     margin: 30px;
+     padding: 50px;
+     background-color: lavender;
+     border-radius: 25px;
+      }
